@@ -29,11 +29,11 @@ To play with an unlimited number of guesses, run the script with the unlimit par
    ```
 
 ## Gameplay Instructions
-You will be prompted to enter a five-letter word.
-If you guess a letter in the correct position, it will be highlighted in green.
-If a letter is in the word but in a different position, it will be highlighted in yellow.
-Letters not in the word will be shown in gray.
-The game continues until you guess the word or run out of attempts.
+- You will be prompted to enter a five-letter word.
+- If you guess a letter in the correct position, it will be highlighted in green.
+- If a letter is in the word but in a different position, it will be highlighted in yellow.
+- Letters not in the word will be shown in gray.
+- The game continues until you guess the word or run out of attempts.
 
 ## Example
    ```mathematica
@@ -41,4 +41,3 @@ The game continues until you guess the word or run out of attempts.
    HELLO
    H  E  L  L  O      [ABCFG...XYZ]
    ```
-
