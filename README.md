@@ -16,11 +16,13 @@ Follow these steps to run the game:
 3. Make the script file executable with the command:
    ```bash
    chmod +x wordle.sh
+   ```
 
 Run the game using the command:
    ```bash
    ./wordle.sh
    ```
+
 To play with an unlimited number of guesses, run the script with the unlimit parameter:
    ```bash
    ./wordle.sh unlimit
@@ -38,5 +40,5 @@ The game continues until you guess the word or run out of attempts.
    Enter your guess (1 / 6):
    HELLO
    H  E  L  L  O      [ABCFG...XYZ]
-   '''
+   ```
 
